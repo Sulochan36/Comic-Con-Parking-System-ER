@@ -36,7 +36,7 @@ The ER diagram includes the following core entities:
 
 ---
 
-## 🔗 Key Relationships
+## Key Relationships
 
 * One vehicle can have multiple parking sessions
 * One parking spot can be reused across multiple sessions
